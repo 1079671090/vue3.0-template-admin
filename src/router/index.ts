@@ -9,7 +9,7 @@ export const constantRoutes: Array<RouteRecordRaw> = [
     redirect: '/home',
     meta: {
       title: {
-        '/zh-CN': '首页',
+        '/zh-CN': '首',
         '/en-US': 'Home Page'
       },
       icon: 'ic ic-homepage-fill'
